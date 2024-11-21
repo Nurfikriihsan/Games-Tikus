@@ -62,3 +62,4 @@ const pukul = function () {
 tikus.forEach(t => t.addEventListener('click', pukul));
 
 mulaiButton.addEventListener('click', mulai);
+
